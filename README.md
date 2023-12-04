@@ -1,8 +1,16 @@
-# React + Vite
+# Encontrar números palíndros dentro de um intervalo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias
+* React + Vite
+* HTML
+* CSS
+* JS
 
-Currently, two official plugins are available:
+- Aplicação desenvolvida por mim que permite ao usuário escolher um intervalo e, em seguida, imprimir todos os números dos palíndromos dentro desse intervalo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/marialuizalacerda/EncontrarNumerosPalindromos/assets/90807108/d827da29-3ade-4508-a6ec-06ea9db74541)
+
+
+
+
+
